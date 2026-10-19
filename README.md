@@ -1,6 +1,8 @@
 # Let It Die Launcher Manager
-
+<p align="center">
 <img width="256" height="256" alt="Lidico" src="https://github.com/user-attachments/assets/4c916afc-a987-4f24-9c13-573cb9c63348" />
+</p>
+<img width="1031" height="548" alt="image" src="https://github.com/user-attachments/assets/eadfa9e0-c2ff-49fe-a39b-d0af8bd59abe" />
 
 Launches a stack of executables when this program starts.
 Each block is one .exe. Only checkboxed blocks are launched.
