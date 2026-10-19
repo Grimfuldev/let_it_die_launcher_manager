@@ -93,14 +93,6 @@ UI_Assets             UI background.webp
                       Lidico.ico
 ```
 
-## Other helpful programs
-
-```
-Let It Die Borderless      https://github.com/Grimfuldev/let_it_die_borderless
-Let It Die Local Saver     https://github.com/Grimfuldev/Let_it_Die_Local_Saver
-Let It Die Seasons and Rotations Changer   https://github.com/Grimfuldev/let_it_die_rotations_and_seasons
-```
-
 ## License and disclaimer
 
 ```
@@ -108,3 +100,10 @@ This is an unofficial fan tool with fanmade assets. It is not affiliated with, a
 or endorsed by Grasshopper Manufacture or GungHo Online Entertainment.
 LET IT DIE, its characters, names, and setting remain their property.
 ```
+
+## Other helpful programs
+
+- [Let It Die Borderless](https://github.com/Grimfuldev/let_it_die_borderless)
+- [Let It Die Launcher Manager](https://github.com/Grimfuldev/let_it_die_launcher_manager)
+- [Let It Die Local Saver](https://github.com/Grimfuldev/Let_it_Die_Local_Saver)
+- [Let It Die Seasons and Rotations Changer](https://github.com/Grimfuldev/let_it_die_rotations_and_seasons)
