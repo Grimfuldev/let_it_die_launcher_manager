@@ -98,6 +98,7 @@ UI_Assets             UI background.webp
 ```
 Let It Die Borderless      https://github.com/Grimfuldev/let_it_die_borderless
 Let It Die Local Saver     https://github.com/Grimfuldev/Let_it_Die_Local_Saver
+Let It Die Seasons and Rotations Changer   https://github.com/Grimfuldev/let_it_die_rotations_and_seasons
 ```
 
 ## License and disclaimer
