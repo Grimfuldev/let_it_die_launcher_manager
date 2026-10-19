@@ -103,7 +103,7 @@ Let It Die Local Saver     https://github.com/Grimfuldev/Let_it_Die_Local_Saver
 ## License and disclaimer
 
 ```
-This is an unofficial fan tool. It is not affiliated with, authorized,
+This is an unofficial fan tool with fanmade assets. It is not affiliated with, authorized,
 or endorsed by Grasshopper Manufacture or GungHo Online Entertainment.
 LET IT DIE, its characters, names, and setting remain their property.
 ```
