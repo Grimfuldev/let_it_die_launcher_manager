@@ -67,8 +67,9 @@ start_minimized = true
 ## Hide / show
 
 ```
-Default hotkey is -
-Press to hide. Press again to show. Works while hidden.
+No hotkey by default (label shows "Hide UI: none").
+Click the Hide UI label and press a key to set one.
+Press it to hide. Press again to show. Works while hidden.
 Click the Hide UI label to set another key.
 disable_shortcut = true turns shortcut action off.
 Launching the exe or the shortcut again closes this program
