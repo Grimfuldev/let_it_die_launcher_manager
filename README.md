@@ -62,6 +62,16 @@ Disable self-launch
 start_minimized = true
     ini only. main window starts hidden. countdown still shows
     if grace_time is greater than 0.
+    Ignored when no hotkey is set, so the window is not stuck hidden.
+
+Self_close_after_ALL_launch = true
+    ini only. after the startup stack finishes, this program exits.
+    It does not close the programs it launched.
+    Cancel launch stack skips this.
+
+Hide_exe_path_in_UI = true
+    checkbox next to Disable self-launch. On by default.
+    Browse still picks a file. The box shows only the exe name.
 ```
 
 ## Hide / show
@@ -81,7 +91,8 @@ and starts the new one. It does not close the other programs.
 ```
 settings.ini          hotkey, start_minimized, grace_time,
                       disable_shortcut, wait_between_launches,
-                      Swap_App_Thumbnail, disable_self_launch
+                      Swap_App_Thumbnail, disable_self_launch,
+                      Self_close_after_ALL_launch, Hide_exe_path_in_UI
 EXEs.json             the block list. Save EXEs overwrites it.
 execute.lock          while running. relaunch closes the old one.
 Swap_App_Thumbnail    full path to an .ico (png is converted).
